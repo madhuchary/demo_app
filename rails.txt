@@ -1,0 +1,5 @@
+RAILS_ENV - config/environments
+RACK_ENV
+Bundler
+manifest
+
